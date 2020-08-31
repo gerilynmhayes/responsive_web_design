@@ -10,3 +10,9 @@
 - Create README.txt
 - Upload your notes to [GitHub](https://github.com/gerilynmhayes) so fellow devs can follow along and review your progress
 - Update your progress on [Twitter](https://twitter.com/gerilynmhayes/) and [Facebook](https://www.facebook.com/thecodingcopywriter)
+
+### Soundtrack
+
+[Best of Nostal Synthwave Mix](https://youtu.be/5E4uPA2wwjY)
+
+---
