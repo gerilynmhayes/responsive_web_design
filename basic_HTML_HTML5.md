@@ -37,11 +37,33 @@ The documented code (below) is the result of today's curriculum. To build these 
 If you have questions about the resulting code or the process, please tweet me [@gerilynhayes](https://twitter.com/gerilynmhayes) – thanks! 
 
 ```
-<h1>Hello World!</h1>
+<h1>Hello World</h1>
 
 <h2>CatPhotoApp</h2>
 
-<p>Hello Paragraph</p>
+<p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+```
+---
+
+We're about to get more descriptive with the HTML tags, starting with `<main>`.
+
+**NOTE**: "HTML5 introduces more descriptive HTML tags. These include main, header, footer, nav, video, article, section and others.
+
+These tags give a descriptive structure to your HTML, make your HTML easier to read, and help with Search Engine Optimization (SEO) and accessibility. The main HTML5 tag helps search engines and other developers find the main content of your page." - freeCodeCamp
+
+You'll see below which information is considered "main" or most important.
+
+```
+<h2>CatPhotoApp</h2>
+
+<main>
+
+<p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+
+<p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+
+</main>
+
 ```
 
 ---
@@ -58,5 +80,7 @@ If you have questions about the resulting code or the process, please tweet me [
 ### Soundtrack
 
 [Best of Nostal Synthwave Mix](https://youtu.be/5E4uPA2wwjY)
+
+[Arcis – Speed Boat Theme](https://youtu.be/G8PVTiknvs4)
 
 ---

@@ -15,4 +15,6 @@
 
 [Best of Nostal Synthwave Mix](https://youtu.be/5E4uPA2wwjY)
 
+[Arcis – Speed Boat Theme](https://youtu.be/G8PVTiknvs4)
+
 ---
