@@ -58,7 +58,7 @@ You'll see below which information is considered "main" or most important.
 
 <main>
 
-<a href="https://freecatphotoapp.com">cat photos</a>
+<a href="#footer">Jump to Bottom</a>
 
 <img src="https://bit.ly/fcc-relaxing-cat" alt="cats relaxing">
 
