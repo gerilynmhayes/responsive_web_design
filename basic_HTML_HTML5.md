@@ -78,8 +78,7 @@ You'll see below which information is considered "main" or most important.
         <li>mean doggies</li>
     </ol>
 
-    <-- below is an input element which is a great way to get input from site visitors; this is a self-closing tag. -->
-    <input type="text">
+    <form action="https://freecatphotoapp.com/submit-cat-photo"><input type="text" placeholder="cat photo URL"></form>
 </main>
 
 <footer id="footer">Copyright Cat Photo App</footer>
