@@ -32,7 +32,7 @@ That's why understanding this language, and how your computer interprets what yo
 
 #### Building a simple web page using HTML
 
-The documented code (below) is the result of today's curriculum. To build these items yourself, please visit [freeCodeCamp](https://www.freecodecamp.org/) and begin the Responsive Web Design Certification track](https://www.freecodecamp.org/learn/) today!
+The documented code (below) is the result of today's curriculum. To build these items yourself, please visit [freeCodeCamp](https://www.freecodecamp.org/) and begin the [Responsive Web Design Certification track](https://www.freecodecamp.org/learn/) today!
 
 If you have questions about the resulting code or the process, please tweet me [@gerilynhayes](https://twitter.com/gerilynmhayes) – thanks! 
 
@@ -55,18 +55,20 @@ You'll see below which information is considered "main" or most important.
 
 ```
 <h2>CatPhotoApp</h2>
-
 <main>
 
-<a href="#footer">Jump to Bottom</a>
+  <a href="#footer">Jump to Bottom</a>
 
-<img src="https://bit.ly/fcc-relaxing-cat" alt="cats relaxing">
+  <img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back.">
 
-<p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
-
-<p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+  <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched. Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+  <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched. Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+  <p>Meowwww loved it, hated it, loved it, hated it yet spill litter box, scratch at owner, destroy all furniture, especially couch or lay on arms while you're using the keyboard. Missing until dinner time toy mouse squeak roll over. With tail in the air lounge in doorway. Man running from cops stops to pet cats, goes to jail.</p>
+  <p>Intently stare at the same spot poop in the plant pot but kitten is playing with dead mouse. Get video posted to internet for chasing red dot leave fur on owners clothes meow to be let out and mesmerizing birds leave fur on owners clothes or favor packaging over toy so purr for no reason. Meow to be let out play time intently sniff hand run outside as soon as door open yet destroy couch.</p>
 
 </main>
+
+<footer id="footer">Copyright Cat Photo App</footer>
 
 ```
 
