@@ -64,12 +64,19 @@ You'll see below which information is considered "main" or most important.
 
     <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
 
+    <p>Things cats loves:</p>
     <ul>
         <li>chin scritches</li>
         <li>stinky wet food</li>
         <li>scratching posts</li>
     </ul>
 
+    <p>Things cats hate:</p>
+    <ol>
+        <li>loud noises</li>
+        <li>healthy food</li>
+        <li>mean doggies</li>
+    </ol>
 </main>
 
 <footer id="footer">Copyright Cat Photo App</footer>
