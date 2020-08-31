@@ -58,6 +58,8 @@ You'll see below which information is considered "main" or most important.
 
 <main>
 
+<img src="https://bit.ly/fcc-relaxing-cat" alt="cats relaxing">
+
 <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 
 <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
@@ -65,6 +67,7 @@ You'll see below which information is considered "main" or most important.
 </main>
 
 ```
+
 
 ---
 
@@ -82,5 +85,7 @@ You'll see below which information is considered "main" or most important.
 [Best of Nostal Synthwave Mix](https://youtu.be/5E4uPA2wwjY)
 
 [Arcis – Speed Boat Theme](https://youtu.be/G8PVTiknvs4)
+
+['Back To The 80's' | Marvel83' Edition | Best of Synthwave And Retro Electro Music Mix](https://youtu.be/0QKQlf8r7ls)
 
 ---
