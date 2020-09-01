@@ -53,6 +53,8 @@ These tags give a descriptive structure to your HTML, make your HTML easier to r
 
 You'll see below which information is considered "main" or most important.
 
+You'll also want to take note of to the most common element used in HTML: `<div>` or the division element.
+
 ```
 
 <h2>CatPhotoApp</h2>
@@ -65,6 +67,7 @@ You'll see below which information is considered "main" or most important.
 
     <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
 
+    <div>
     <p>Things cats loves:</p>
     <ul>
         <li>chin scritches</li>
@@ -78,6 +81,7 @@ You'll see below which information is considered "main" or most important.
         <li>healthy food</li>
         <li>mean doggies</li>
     </ol>
+    </div>
 
     <form action="https://freecatphotoapp.com/submit-cat-photo">
         <input type="text" required placeholder="cat photo URL">
@@ -104,7 +108,6 @@ You'll see below which information is considered "main" or most important.
 <footer id="footer">Copyright Cat Photo App</footer>
 
 ```
-
 
 ---
 
