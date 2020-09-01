@@ -105,3 +105,5 @@ p {
 }
 ```
 ---
+
+CSS Classes are super cool because you can style images, paragraph blocks, menus and so much more! Check out my [CodePen](https://codepen.io/gerilynmhayes/pen/mdPMpGO) to review the code I used to spruce up the border surrounding the image of that ridiculously cute kitten. Be sure to see which classes I used and where they're placed in the code.
