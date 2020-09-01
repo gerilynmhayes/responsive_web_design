@@ -104,6 +104,17 @@ p {
     font-family: 'Fira Code', monospace;
 }
 ```
----
 
 CSS Classes are super cool because you can style images, paragraph blocks, menus and so much more! Check out my [CodePen](https://codepen.io/gerilynmhayes/pen/mdPMpGO) to review the code I used to spruce up the border surrounding the image of that ridiculously cute kitten. Be sure to see which classes I used and where they're placed in the code.
+
+---
+
+### Element id
+
+The `id` can only be used once to style a single element so make sure that your id is unique the specific element you want to style.
+
+```
+<h2 id="cat-photo-app">
+
+<form id="cat-photo-form">
+```
