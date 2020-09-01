@@ -54,6 +54,7 @@ These tags give a descriptive structure to your HTML, make your HTML easier to r
 You'll see below which information is considered "main" or most important.
 
 ```
+
 <h2>CatPhotoApp</h2>
 <main>
     <p>Click here to view more
@@ -81,6 +82,21 @@ You'll see below which information is considered "main" or most important.
     <form action="https://freecatphotoapp.com/submit-cat-photo">
         <input type="text" required placeholder="cat photo URL">
         <button type="submit">Submit</button>
+        <label for="indoor">
+            <input id="indoor" type="radio" name="indoor-outdoor">Indoor
+        </label>
+        <label for="outdoor">
+            <input id="outdoor" type="radio" name="indoor-outdoor">Outdoor
+        </label>
+        <label for="loving">
+        <input id="loving" type="checkbox" name="personality">Loving
+        </label>
+       <label for="grumpy">
+        <input id="grumpy" type="checkbox" name="personality">Grumpy
+        </label>
+        <label for="Lazy">
+        <input id="lazy" type="checkbox" name="personality">Lazy
+        </label>
     </form>
 </main>
 
