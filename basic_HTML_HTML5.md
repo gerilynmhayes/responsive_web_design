@@ -81,22 +81,23 @@ You'll see below which information is considered "main" or most important.
 
     <form action="https://freecatphotoapp.com/submit-cat-photo">
         <input type="text" required placeholder="cat photo URL">
-        <button type="submit">Submit</button>
         <label for="indoor">
-            <input id="indoor" type="radio" name="indoor-outdoor">Indoor
+            <input id="indoor" value="indoor" type="radio" name="indoor-outdoor">Indoor
         </label>
         <label for="outdoor">
-            <input id="outdoor" type="radio" name="indoor-outdoor">Outdoor
+            <input id="outdoor" value="outdoor" type="radio" name="indoor-outdoor">Outdoor
         </label>
         <label for="loving">
-        <input id="loving" type="checkbox" name="personality">Loving
+        <input id="loving" value="loving" type="checkbox" name="personality">Loving
         </label>
        <label for="grumpy">
-        <input id="grumpy" type="checkbox" name="personality">Grumpy
+        <input id="grumpy" value="grumpy" type="checkbox" name="personality">Grumpy
         </label>
         <label for="Lazy">
-        <input id="lazy" type="checkbox" name="personality">Lazy
-        </label>
+        <input id="lazy" value="lazy" type="checkbox" name="personality">Lazy
+        </label><br/>
+        <input type="text" placeholder="cat photo URL" required>
+    <button type="submit">Submit</button>
     </form>
 </main>
 
