@@ -55,3 +55,53 @@ Now, add in the HTML element you want styled. Let's style a heading.
 For CSS to work, you must give your selected element a style rule. In this case you are giving Heading 1 a red color style rule. For the browser to execute this, put your style rule in curly braces. And most importantly, type a semicolon at the end of your style rule; otherwise, the code will not render the style rule.
 
 If you're following along and using CodePen, you'll see that you can use their CSS editor. That's what I'm doing alongside the tutorial.
+
+---
+
+### CSS Classes
+
+"Classes are reusable styles that can be added to HTML elements."
+
+```
+  .purple-text {
+    color: purple;
+  }
+
+```
+In the above example, `purple-text` is a class. Depending on which HTML element you want to style, this class will impact its color. Remember that all CSS classes are called, or start, with a period.
+
+Let's style Heading 2. In the example below, you'll see that the HTML element is given a class attribute with a value of `purple-text`.
+
+```
+<style>
+    .purple-text {
+        color: purple;
+    }
+</style>
+
+<h2 class="purple-text">I am purple.</h2>
+```
+
+What's really great about CSS Classes is that you can use them to style as many HTML elements as you'd like.
+
+For more information about the CSS Class Selector, please visit [w3schools.com](https://www.w3schools.com/cssref/sel_class.asp).
+
+---
+
+### Importing Google Fonts
+
+This one is super fun! When you visit Google Fonts, you can choose some uniquely design fonts by talented artists. To immport Google Font to your code, visit [Google Fonts](https://fonts.google.com/) and select the font you like best. Copy the code snippet; it might look like this:
+
+```
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap" rel="stylesheet">
+```
+
+Paste the code snippet at the top of your code (before your open `style` element). Then, update your CSS Selector to style the font in your document. Here's an example of what the CSS code will look like:
+
+```
+p {
+    font-size: 20px;
+    font-family: 'Fira Code', monospace;
+}
+```
+---
