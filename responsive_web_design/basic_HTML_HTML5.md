@@ -175,3 +175,5 @@ I've taken this tutorial before so it was nice to take it again as a refresher. 
 What I liked most is that I got to work with HTML exclusively. Overall, it's a language that everyone needs to learn and understand – aka it's not just for the development and programming community.
 
 I also like that the tutorial offers students a step-by-step coding experience that's not atypical of 'from-scratch' development. I'm looking forward to taking notes on the CSS portion that's to come in Day 2 of the #100DaysOfProjects challenge!
+
+🤓Until then, keep on codin'!
