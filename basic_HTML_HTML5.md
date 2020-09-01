@@ -14,13 +14,13 @@ I'm looking forward to sharing my learnings and project progress with you, and i
 
 ---
 
-### NOTES
+## NOTES
 
-*These are general notes; notes can be used by anyone.*
+## Basic HTML and HTML5 curriculum, 28 lessons to complete
 
-#### Basic HTML and HTML5 curriculum, 28 lessons to complete
+*These are general notes that can be used by anyone.*
 
-[Introduction to Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+### [Introduction to Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 
 To become a web savvy coder, you'll need to know HTML.
 
@@ -108,6 +108,9 @@ You'll also want to take note of to the most common element used in HTML: `<div>
 <footer id="footer">Copyright Cat Photo App</footer>
 
 ```
+
+---
+
 ## Doctype
 
 What's interesting about this tutorial is that it introduces the Doctype declaration later on in the tutorial. Typically, you'd see this in the beginning of tutorials, but probably not in this instance since we're using an online code editor/simulation versus creating an HTML document on our local drive.
@@ -120,6 +123,26 @@ Take a look at the structure of an HTML page:
 <!DOCTYPE html>
 <html>
     <!-- Your nifty HTML code will be typed here. -->
+</html>
+
+```
+
+---
+
+## Head and Body
+
+Other key elements to page structure are the head and body. The head stores all the important information about your website. Info like `link`, `meta`, `title`, and `style` go in this brain-level portion of your code. The body stores the contents of your page the super cool characteristcs of your web page(s).
+
+```
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- metadata elements -->
+  </head>
+  <body>
+    <!-- page contents -->
+  </body>
 </html>
 
 ```
@@ -144,3 +167,11 @@ Take a look at the structure of an HTML page:
 ['Back To The 80's' | Marvel83' Edition | Best of Synthwave And Retro Electro Music Mix](https://youtu.be/0QKQlf8r7ls)
 
 ---
+
+## Overall thoughts:
+
+I've taken this tutorial before so it was nice to take it again as a refresher. My results from this freeCodeCamp tutorial are on [CodePen](https://codepen.io/gerilynmhayes/full/mdPMpGO).
+
+What I liked most is that I got to work with HTML exclusively. Overall, it's a language that everyone needs to learn and understand – aka it's not just for the development and programming community.
+
+I also like that the tutorial offers students a step-by-step coding experience that's not atypical of 'from-scratch' development. I'm looking forward to taking notes on the CSS portion that's to come in Day 2 of the #100DaysOfProjects challenge!
