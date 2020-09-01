@@ -108,6 +108,21 @@ You'll also want to take note of to the most common element used in HTML: `<div>
 <footer id="footer">Copyright Cat Photo App</footer>
 
 ```
+## Doctype
+
+What's interesting about this tutorial is that it introduces the Doctype declaration later on in the tutorial. Typically, you'd see this in the beginning of tutorials, but probably not in this instance since we're using an online code editor/simulation versus creating an HTML document on our local drive.
+
+Essentially, the Doctype is used to tell your browser just what in the world the document you're telling it to render is. *Is it an HTML doc? Is it a CSS doc? Is it a dinosaur?* Whatever it is, you've got to specifiy it to the browser so that it understands the page's structure.
+
+Take a look at the structure of an HTML page:
+
+```
+<!DOCTYPE html>
+<html>
+    <!-- Your nifty HTML code will be typed here. -->
+</html>
+
+```
 
 ---
 
