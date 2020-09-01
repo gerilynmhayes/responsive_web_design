@@ -14,9 +14,44 @@ Remember: If you'd like to code alongside me let's do it! Tweet your progress [@
 
 ## NOTES
 
-## Basic CSS, 28 lessons to complete
+## Basic CSS, 44 lessons to complete
 
 *These are general notes that can be used by anyone.*
 
 ### [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css)
 
+CSS stands for Cascading Style Sheets. Just like our good ol' friends HTML and HTML5, CSS tells our browsers "how to display the text and other content that you write in HTML." It's pretty dang cool!
+
+Why? 
+
+Well, because you can use CSS to style your HTML elements' colors, fonts, sizes, spacing, and so much more.
+
+Although I prefer to style my HTML using a stylesheet document, I'm going to follow the inline stying method used by this freeCodeCamp tutorial.
+
+---
+
+### CSS Selectors
+
+You'll use CSS Selectors to style HTML elements. Once you get the hang of it, you'll want to use it all the time to make your HTML look super nifty.
+
+In order to style plain HTML, you'll want to add CSS to your code.
+
+Start by coding in a `style` block at the top of your code; it's where you're going to write all of your CSS. It's going to look like this:
+
+```
+<style>
+    </style>
+```
+Now, add in the HTML element you want styled. Let's style a heading.
+
+```
+<style>
+    h1 {
+        color: red;
+    }
+</style>
+
+```
+For CSS to work, you must give your selected element a style rule. In this case you are giving Heading 1 a red color style rule. For the browser to execute this, put your style rule in curly braces. And most importantly, type a semicolon at the end of your style rule; otherwise, the code will not render the style rule.
+
+If you're following along and using CodePen, you'll see that you can use their CSS editor. That's what I'm doing alongside the tutorial.
