@@ -1,8 +1,8 @@
 # 100 Days of Projects
 
-## Day 1 – Responsive Web Design Project Initiative
+## #100DaysOfProjects: Day 1 – Responsive Web Design Project Initiative
 
-Although I've been coding for years, I need to build up my projects portfolio and give myself a refresher on basic coding. The best way for me to put my skills to practice is by committing to the #100DaysOfProjects challenge, created by [Ceora](https://twitter.com/ceeoreo_)! She's an Instructor and Learner Advocate at egghead.io and you should follow her on Twitter to get loads of meme inspiration and moere.
+Although I've been coding for years, I need to build up my projects portfolio and give myself a refresher on basic coding. The best way for me to put my skills to practice is by committing to the #100DaysOfProjects challenge, created by [Ceora](https://twitter.com/ceeoreo_)! She's an Instructor and Learner Advocate at egghead.io and you should follow her on Twitter to get loads of meme inspiration and more.
 
 Today's notes will feature what I'm learning via freeCodeCamp's [Responsive Web Design Certification track](https://www.freecodecamp.org/learn/) course. With 300 hours of curriculum to cover, I wanted to document my journey in public so that other devs, code newbies and prospective project collaborators can see what Learning in Public is all about!
 
