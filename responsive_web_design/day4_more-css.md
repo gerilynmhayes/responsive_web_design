@@ -48,9 +48,71 @@ Visit the [CodePen](https://codepen.io/gerilynmhayes/pen/BaKwJPp) for the "Night
 
 ---
 
-## 🙀 Wait! We're going back to HTML?! 
+## 🙀 Styling the HTML Body Element
 
-Oh, freeCodeCamp! Just when I thought we were going to have a CSS love fest today...
+Use CSS to style the body element (so that we can see it!!).
+
+Code example:
+
+```
+body {
+  background-color: black;
+}
+```
+---
+
+## Inheriting Styles from the HTML Body Element
+
+*Did you know that the `body` element can be styled?* Well, it can be. All you have to do is treat it like any other HTML element.
+
+When you do so, fCC says, "all your other elements will inherit your body element's styles."
+
+Pretty neat, huh?
+
+Here's my example which you can put into your own codepen and test:
+
+```
+body {
+    background: brown;
+    color: yellow;
+    font-family: monospace;
+}
+
+<h1>What's up, Doc?</h1>
+```
+
+---
+
+## Overriding Styles
+
+The lessons in this tutorial are worthwhile, and should be practiced to understand heirarchy. For my purposes, I'm going to leave this web standard here as a reminder:
+
+"Browsers read CSS from top to bottom in order of their declaration. That means that, in the event of a conflict, the browser will use whichever CSS declaration came last." -fCC
+
+It's also worth mentioning that inline styles will override all CSS declarations, but the most *powerful* overriding call is `!important`. I try to use it sparingly, but sometimes it is necessary to declare when you need your element styled in a very specific way.
+
+Here's an example. Notice that your CSS class `pink-text` has the keyword `!important` in it, making the color pink the overriding priority in the style:
+
+```
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  #orange-text {
+    color: orange;
+  }
+  .pink-text {
+    color: pink !important;
+  }
+  .blue-text {
+    color: blue;
+  }
+</style>
+<h1 id="orange-text" class="pink-text !important blue-text" style="color: white">Hello World!</h1>
+
+```
 
 ---
 
