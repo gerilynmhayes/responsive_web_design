@@ -59,3 +59,20 @@ Covering off on `padding`, `margin` and `border`–or The Nightmare Trifecta, as
 ['Back To The 80's' | Vol. 8 REDUX](https://youtu.be/2b9AqJimM-0)
 
 ---
+
+## Day 4 – Responsive Web Design | More CSS! Back to CatPhotoApp
+
+Covering off on a multitude of properties and understanding attribute selectors. This is going to be a good way to work with "The Nightmare Trifeca" from Day 3 and other styling properties and their values.
+
+### Checklist
+
+- Continue refresher of HTML and CSS via freeCodeCamp via the [Responsive Web Design Certification track (300 Hours)](https://www.freecodecamp.org/learn/)
+- Upload your notes to [GitHub](https://github.com/gerilynmhayes) so fellow devs can follow along and review your progress
+- Update your progress on [Twitter](https://twitter.com/gerilynmhayes/) and [Facebook](https://www.facebook.com/thecodingcopywriter) and [LinkedIn](https://www.linkedin.com/in/gerilynmhayes/) using hash tags #100DaysOfProjects and #LearningInPublic
+- Prep your WordPress blog for the series, publishing second post either this morning or tomorrow morning (depends on how far you get with edits)
+
+### Soundtrack
+
+['Back To The 80's' | Best of Synthwave And Retro Electro Music Mix for 2 Hours | Vol. 10](https://youtu.be/s978-pfGNpg)
+
+---
