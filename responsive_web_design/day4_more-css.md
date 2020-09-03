@@ -125,7 +125,10 @@ You can also find super cool colors using my favorite palette selector: [Coolors
 
 ## Overall thoughts:
 
+This portion of the tutorial was super fun! I especially enjoyed learning how the selectors are used to grab specific properties to style elements. I think they're going to come in handy for my upcoming web page projects.
+
+For now, I'm stopping here so that I can spend tomorrow's session studying CSS Variables. The upcoming lesson, which features a CSS illustration, will be a fun one to work on!
+
+*Following alongside my notes? Got questions? Suggestions?* Tweet me [@gerilynhayes](https://twitter.com/gerilynmhayes) and [@100ProjectDays](https://twitter.com/100ProjectDays) using hashtags #100DaysOfProjects and #LearningInPublic, and I'll answer your questions.
 
 🤓 Keep on codin'!
-
-If you'd like to code alongside me let's do it! Tweet your progress [@gerilynhayes](https://twitter.com/gerilynmhayes) and [@100ProjectDays](https://twitter.com/100ProjectDays) using hashtags #100DaysOfProjects and #LearningInPublic.
