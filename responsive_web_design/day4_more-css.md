@@ -113,6 +113,13 @@ Here's an example. Notice that your CSS class `pink-text` has the keyword `!impo
 <h1 id="orange-text" class="pink-text !important blue-text" style="color: white">Hello World!</h1>
 
 ```
+---
+
+## Colors 🎨
+
+This section is very fun and a lot of it is self-explanatory. I recommend playing with this portion of the tutorial in CodePen.
+
+You can also find super cool colors using my favorite palette selector: [Coolors](https://coolors.co/881775)!
 
 ---
 
