@@ -176,4 +176,4 @@ What I liked most is that I got to work with HTML exclusively. Overall, it's a l
 
 I also like that the tutorial offers students a step-by-step coding experience that's not atypical of 'from-scratch' development. I'm looking forward to taking notes on the CSS portion that's to come in Day 2 of the #100DaysOfProjects challenge!
 
-🤓Until then, keep on codin'! 
+🤓Until then, keep on codin'!
