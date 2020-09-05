@@ -76,3 +76,20 @@ Covering off on a multitude of properties and understanding attribute selectors.
 ['Back To The 80's' | Best of Synthwave And Retro Electro Music Mix for 2 Hours | Vol. 10](https://youtu.be/s978-pfGNpg)
 
 ---
+
+## Day 5 – Responsive Web Design | More CSS! Variables y mas
+
+Starting the project a little later than expected. Today's late start is thanks to a worthwhile all-night WordPress site building session that will be launching by the end of next week. I'm very excited to share the website with you once it ships. For now, it's CSS refresher time!
+
+### Checklist
+
+- Continue refresher of HTML and CSS via freeCodeCamp via the [Responsive Web Design Certification track (300 Hours)](https://www.freecodecamp.org/learn/)
+- Upload your notes to [GitHub](https://github.com/gerilynmhayes) so fellow devs can follow along and review your progress
+- Update your progress on [Twitter](https://twitter.com/gerilynmhayes/) and [Facebook](https://www.facebook.com/thecodingcopywriter) and [LinkedIn](https://www.linkedin.com/in/gerilynmhayes/) using hash tags #100DaysOfProjects and #LearningInPublic
+- Prep your WordPress blog post for a "Progress Report" as daily blogging is untenable at this point
+
+### Soundtrack
+
+[W O L F C L U B - All We Live For (Audio)](https://youtu.be/LFIT49XaL7Y)
+
+---
