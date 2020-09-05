@@ -16,7 +16,7 @@ Remember: If you'd like to code alongside me let's do it! Tweet your progress [@
 
 ## Basic CSS, 44 lessons to complete
 
-*These are general notes that can be used by anyone.* 
+*These are general notes that can be used by anyone.*
 
 ### [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css)
 
