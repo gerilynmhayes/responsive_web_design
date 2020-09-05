@@ -1,6 +1,6 @@
 # 100 Days of Projects
 
-## Day 3 – Responsive Web Design | The Nightmare Trifecta (CSS)
+## Day 3 – Responsive Web Design | The Nightmare Trifecta (CSS) 
 
 It's a new day which means it's time to get my code on!
 
