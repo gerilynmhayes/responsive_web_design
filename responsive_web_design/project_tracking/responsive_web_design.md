@@ -92,4 +92,10 @@ Starting the project a little later than expected. Today's late start is thanks 
 
 [W O L F C L U B - All We Live For (Audio)](https://youtu.be/LFIT49XaL7Y)
 
+["IRL" (Lyric Video) by Parallels](https://youtu.be/-Et-Hq_8qjo)
+
+[Metropolis](https://youtu.be/PCn6ErWloX8)
+
+[Prism - A Chillwave Mix](https://youtu.be/nftWIonZy9E)
+
 ---
