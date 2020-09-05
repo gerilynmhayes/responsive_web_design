@@ -75,4 +75,4 @@ Even though there's a 3-day weekend ahead, you can find me tinkering away for Da
 
 How are you doing with the lessons? Sped ahead already? Then, don't let me slow ya down! I want to hear about what you've learned. Tweet me [@gerilynhayes](https://twitter.com/gerilynmhayes) and [@100ProjectDays](https://twitter.com/100ProjectDays) using hashtags #100DaysOfProjects and #LearningInPublic. We can learn from each other, in public!!
 
-🤓 Until tomorrow, keep on codin'!
+🤓 Until tomorrow, keep on codin'! 
