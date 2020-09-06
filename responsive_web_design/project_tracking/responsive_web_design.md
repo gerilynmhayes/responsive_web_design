@@ -99,3 +99,21 @@ Starting the project a little later than expected. Today's late start is thanks 
 [Prism - A Chillwave Mix](https://youtu.be/nftWIonZy9E)
 
 ---
+
+## Break time! – Responsive Web Design | Taking a much-needed rest
+
+Spent some quality down time at home instead of coding. Although I'd love to get my hands on some more CSS and tinkering away at a cool new project, I wanted to relax. The time spent was worthwhile, and I needed to unplug for a bit.
+
+I'm looking forward to jumping back in tomorrow to learn more concepts. 
+
+#### This does not count as day 6 of the project since no actions were taken today.
+
+### Checklist
+
+null
+
+### Soundtack
+
+null
+
+---
