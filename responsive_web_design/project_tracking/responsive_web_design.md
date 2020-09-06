@@ -100,7 +100,7 @@ Starting the project a little later than expected. Today's late start is thanks 
 
 ---
 
-## Break time! – Responsive Web Design | Taking a much-needed rest
+## Break time! – Responsive Web Design | Taking a much-needed rest during Labor Day Weekend
 
 Spent some quality down time at home instead of coding. Although I'd love to get my hands on some more CSS and tinkering away at a cool new project, I wanted to relax. The time spent was worthwhile, and I needed to unplug for a bit.
 
@@ -117,3 +117,4 @@ null
 null
 
 ---
+
