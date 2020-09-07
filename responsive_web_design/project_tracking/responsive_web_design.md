@@ -118,3 +118,19 @@ null
 
 ---
 
+## Day 6 – Responsive Web Design | CSS and Visual Design
+
+Well, it's Labor Day weekend (USA). Although I should chillax, I'm curious about what more I can do with CSS. So, I'm back! And ready to learn.
+
+Today's lessons include *Inherit CSS Variables*, *Change a variable for a specific area*, and *Use a media query to change a variable*.
+
+### Checklist
+
+- Continue refresher of HTML and CSS via freeCodeCamp via the [Responsive Web Design Certification track (300 Hours)](https://www.freecodecamp.org/learn/)
+- Upload your notes to [GitHub](https://github.com/gerilynmhayes) so fellow devs can follow along and review your progress
+- Update your progress on [Twitter](https://twitter.com/gerilynmhayes/) and [Facebook](https://www.facebook.com/thecodingcopywriter) and [LinkedIn](https://www.linkedin.com/in/gerilynmhayes/) using hash tags #100DaysOfProjects and #LearningInPublic
+- Prep your WordPress blog post for a "Progress Report" with a plan to publish this report every Monday morning
+
+### Soundtrack
+
+[| L O C K E D I N | - A NewRetroWave Mix | 1 Hour | Retrowave/ Dreamwave/ Outrun |](https://youtu.be/FuXtSqy3KnA)
