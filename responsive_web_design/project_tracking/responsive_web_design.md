@@ -134,3 +134,22 @@ Today's lessons include *Inherit CSS Variables*, *Change a variable for a specif
 ### Soundtrack
 
 [| L O C K E D I N | - A NewRetroWave Mix | 1 Hour | Retrowave/ Dreamwave/ Outrun |](https://youtu.be/FuXtSqy3KnA)
+
+---
+
+## Day 7 – Responsive Web Design | Applied Visual Design
+
+Didn't plan on coding this weekend, but here I am! Even though today is a holiday, I'm in the midst of a learning session that just won't quit so let's hop into another week of learning with the focus to get a web page built by the end of the 100 days!
+
+### Checklist
+
+- Continue refresher of HTML and CSS via freeCodeCamp via the [Responsive Web Design Certification track (300 Hours)](https://www.freecodecamp.org/learn/)
+- Upload your notes to [GitHub](https://github.com/gerilynmhayes) so fellow devs can follow along and review your progress
+- Update your progress on [Twitter](https://twitter.com/gerilynmhayes/) and [Facebook](https://www.facebook.com/thecodingcopywriter) and [LinkedIn](https://www.linkedin.com/in/gerilynmhayes/) using hash tags #100DaysOfProjects and #LearningInPublic
+- Prep your WordPress blog post for a "Progress Report" with a plan to publish this report every Monday morning, starting September 14
+
+### Soundtrack
+
+[Night Drive - A Chillwave Mix](https://youtu.be/emNgfuw8vlA)
+
+---
