@@ -153,3 +153,12 @@ Didn't plan on coding this weekend, but here I am! Even though today is a holida
 [Night Drive - A Chillwave Mix](https://youtu.be/emNgfuw8vlA)
 
 ---
+
+## Day 7, continued – Responsive Web Design | Applied Visual Design, continued
+
+And just like that, I kept on coding through the tutorial. During my note taking I got a bit experimental and went offroad and navigated into project territory! See what I came up with here on my [CodePen](https://codepen.io/gerilynmhayes/pen/VwaQwOr).
+
+### Soundtrack
+
+[ＨＡＺＹ　ＶＩＳＩＯＮ [ Chillwave - Synthwave - Retrowave Mix ]](https://youtu.be/FmZXCqqx6q0)
+

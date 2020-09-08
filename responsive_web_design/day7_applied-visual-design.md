@@ -67,4 +67,4 @@ I'm looking forward to revisiting backgrounds and color theory!
 
 Stay up to date with my progress here and over on Twitter [@gerilynhayes](https://twitter.com/gerilynmhayes). Tweet me and [@100ProjectDays](https://twitter.com/100ProjectDays) using hashtags #100DaysOfProjects and #LearningInPublic.
 
-🤓Until tomorrow, keep on codin'!
+🤓  Until tomorrow, keep on codin'!
