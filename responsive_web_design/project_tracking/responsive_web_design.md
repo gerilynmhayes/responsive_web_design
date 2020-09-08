@@ -166,8 +166,13 @@ And just like that, I kept on coding through the tutorial. During my note taking
 
 ## Day 7 and 8 (combined) – Responsive Web Design | Applied Visual Design, continued
 
-Having a hard time pulling myself away from my CSS name card design, I kept on moving forward with the Applied Visual Design portion of the fCC tutorial. You can review my code in my GitHub repository titled "name card" [here](https://github.com/gerilynmhayes/name-card).
+Having a hard time pulling myself away from my CSS name card design, I kept on moving forward with the Applied Visual Design portion of the fCC tutorial. You can review my code in my GitHub repository titled "*name card*" [here](https://github.com/gerilynmhayes/name-card).
 
 ### Soundtrack
 
 [Dreamstate Logic - Skies Of Andromeda [SpaceAmbient]](https://youtu.be/FbbCHWQZ70o)
+
+[Oleg Byonic,Anna Mekheles - Distant](https://youtu.be/T-wzhyTUCYc)
+
+---
+
