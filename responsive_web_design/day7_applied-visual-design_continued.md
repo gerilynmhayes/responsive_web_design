@@ -1,6 +1,6 @@
 # 100 Days of Projects
 
-## ## Day 7 and 8 – Responsive Web Design | Applied Visual Design 
+## ## Day 7 and 8 – Responsive Web Design | Applied Visual Design
 
 Sooooo.... I kinda skipped ahead and took several steps to get to where I am now in the freeCodeCamp tutorial: **Relative Position**.
 
