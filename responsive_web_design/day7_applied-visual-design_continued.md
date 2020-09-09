@@ -10,7 +10,7 @@ HTML elements are considered to have their own box, block, or container. No matt
 
 ## Read and learn!
 
-![GIF image of a cacy reading a book in a rather hurried fashion](https://media1.tenor.com/images/80556186b94ecaff7a570a9c8148fb00/tenor.gif?itemid=4535602)
+![GIF image of a baby reading a book in a rather hurried fashion](https://media1.tenor.com/images/80556186b94ecaff7a570a9c8148fb00/tenor.gif?itemid=4535602)
 
 ---
 
