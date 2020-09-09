@@ -183,3 +183,5 @@ Yesterday I played with relative position of elements to see how this variable i
 ### Soundtrack
 
 [ＣＹＢＥＲ　ＤＲＥＡＭ [Chillwave - Synthwave Mix]](https://youtu.be/yhCuCqJbOVE)
+
+[ＣＹＢＥＲ　ＤＲＥＡＭ 2 [Chillwave - Synthwave Mix]](https://youtu.be/INSsZk-5Pco)
