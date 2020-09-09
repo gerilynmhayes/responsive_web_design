@@ -176,3 +176,10 @@ Having a hard time pulling myself away from my CSS name card design, I kept on m
 
 ---
 
+## Day 9 – Responsive Web Design | Applied Visual Design, continued
+
+Yesterday I played with relative position of elements to see how this variable impacted my design layouts. Groovy stuff, indeed! I'm looking forward to jumping into the other values of position such as 'absolute' and 'fixed'. To see my results on any of the projects that I mention in my notes, review my [CodePen](https://codepen.io/gerilynmhayes/) profile.
+
+### Soundtrack
+
+[ＣＹＢＥＲ　ＤＲＥＡＭ [Chillwave - Synthwave Mix]](https://youtu.be/yhCuCqJbOVE)
