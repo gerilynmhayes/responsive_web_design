@@ -102,12 +102,6 @@ The Y-axis is vertical.
 
 This is pretty cool! In the example provided by fCC, we learn that we can create shapes using CSS selectors and properties. We work primarily with `border-radius`, `box-shadow` and their respective values for this challenge. See my results via [CodePen](https://codepen.io/gerilynmhayes/pen/BaKwJPp)! It should look similar to your own     🌙
 
-## Create a More Complex Shape Using CSS and HTML
-
-fCC states:
-
-> You need to understand the ::before and ::after pseudo-elements. These pseudo-elements are used to add something before or after a selected element.
-
 ---
 
 ## Overall thoughts:

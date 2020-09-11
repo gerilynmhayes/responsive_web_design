@@ -197,3 +197,17 @@ This afternoon, I'm still working with a few styling elements in CSS and I'm pre
 ### Soundtrack
 
 [ＣＹＢＥＲ　ＤＲＥＡＭ [Chillwave - Synthwave Mix](https://youtu.be/YvHcK1CaNW0)
+
+---
+
+## Day 11 – Responsive Web Design | Applied Visual Design, continued
+
+Yesterday was an expansion on color. Today is about applying that knowledge to complex shapes and animation!
+
+If you're still following along and coding with me, I hope that you're progressing. In fact, if you're well beyond me at this point: KEEP GOING! I'm rooting for you    👍🏾
+
+For now, I'm going to pop on some good tunes and get to work. Let's get it!
+
+### Soundtrack
+
+[coffee shop radio // 24/7 lofi hip-hop beats](https://youtu.be/-5KAN9_CzSA)
