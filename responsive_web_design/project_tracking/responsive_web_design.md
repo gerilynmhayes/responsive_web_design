@@ -185,3 +185,15 @@ Yesterday I played with relative position of elements to see how this variable i
 [ＣＹＢＥＲ　ＤＲＥＡＭ [Chillwave - Synthwave Mix]](https://youtu.be/yhCuCqJbOVE)
 
 [ＣＹＢＥＲ　ＤＲＥＡＭ 2 [Chillwave - Synthwave Mix]](https://youtu.be/INSsZk-5Pco)
+
+---
+
+## Day 10 – Responsive Web Design | Applied Visual Design, continued
+
+Phew! What a productive day! I'm happy to finally squeeze in a bit of coding time before taking a nice nature walk and hopping into my book club meeting this evening.
+
+This afternoon, I'm still working with a few styling elements in CSS and I'm pretty pumped about it!
+
+### Soundtrack
+
+[ＣＹＢＥＲ　ＤＲＥＡＭ [Chillwave - Synthwave Mix](https://youtu.be/YvHcK1CaNW0)
