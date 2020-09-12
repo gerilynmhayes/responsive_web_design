@@ -211,3 +211,15 @@ For now, I'm going to pop on some good tunes and get to work. Let's get it!
 ### Soundtrack
 
 [coffee shop radio // 24/7 lofi hip-hop beats](https://youtu.be/-5KAN9_CzSA)
+
+---
+
+## Day 12 – Responsive Web Design | Applied Visual Design, continued
+
+Ugggh... I have a massive headache that just won't quit so I'm going to take a break today. If it goes away, I'll hop back into my lessons this evening. For now, I am very happy with my progress so far. You can see yesterday's notes on [GitHub](https://github.com/gerilynmhayes/responsive_web_design/blob/master/responsive_web_design/day11_complex-shapes_animation.md) if you'd like to get more insight on color theory and animation in CSS.
+
+### Soundtrack
+
+null
+
+---
