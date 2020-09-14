@@ -223,3 +223,15 @@ Ugggh... I have a massive headache that just won't quit so I'm going to take a b
 null
 
 ---
+
+## Day 13 – Responsive Web Design | Applied Visual Design, continued
+
+Took another breather today. I'm thinking that weekends are going to have to be true weekends instead of coding-based weekends. I think only time will tell. You're free to review my latest set of notes on [GitHub](https://github.com/gerilynmhayes/responsive_web_design/blob/master/responsive_web_design/day11_complex-shapes_animation.md) about color theory and animation in CSS.
+
+I'll see you bright and early tomorrow!
+
+### Soundtrack
+
+null
+
+--
