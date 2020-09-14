@@ -235,3 +235,15 @@ I'll see you bright and early tomorrow!
 null
 
 --
+
+## Day 14 – Responsive Web Design | Applied Visual Design, continued
+
+This weekend was a weird one, only because I couldn't figure out how to balance coding with sleeping lol! Fortunately, I've decided to keep my weekdays and weekends separate. I actually DO benefit from not coding on the weekends. Now, my mind is clear and ready to take on new coding challenges. I want to keep this mode of operation, going forward.
+
+Today, I'm jumping into animation-iteration and playing with timing. Tomorrow, I'm wrapping up the animation portion of the curriculum and moving on to the Bezier Curve for smooth, natural moving digital elements. Who knew HTML and CSS would be this much fun?!
+
+### Soundtrack
+
+null
+
+--
