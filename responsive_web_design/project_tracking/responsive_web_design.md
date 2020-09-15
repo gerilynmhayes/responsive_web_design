@@ -247,3 +247,19 @@ Today, I'm jumping into animation-iteration and playing with timing. Tomorrow, I
 null
 
 --
+
+## Day 15 – Responsive Web Design | Applied Visual Design, Applied Accessibility
+
+Another late start, but that's okay! I'm here and ready to wrap up the Applied Visual Design portion of the curriculum. Next, I'll move into Applied Accessibility–an essential factor when building websites of any kind.
+
+## Soundtrack
+
+[FORÊT DE VIN - Lifeline](https://youtu.be/hsuK8Th8Ymk)
+
+[ASTRO - A Synthwave Mix [Chillwave - Retrowave - Synthwave]](https://youtu.be/XccPsuqAz4E)
+
+['Back To The 80's' | Best of Synthwave And Retro Electro Music Mix for 2 Hours | Vol. 5](https://youtu.be/qk1nnAHI1mI)
+
+[Freeweights - Lightweight](https://youtu.be/s0NbVUJGrbk)
+
+[Neon Rooftops [ A Chillwave - Synthwave - Retrowave Mix ]](https://youtu.be/rDfS8B2-Mt4)
