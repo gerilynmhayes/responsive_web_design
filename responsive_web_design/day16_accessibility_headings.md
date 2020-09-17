@@ -6,7 +6,7 @@ I'm exhausted. BUT coding before the day is done will put me at ease. So, I'm go
 
 ## Here We Go!
 
-![GIF image of actor Tim Meadows enthusiastically yelling Let's get to learning!](https://media1.tenor.com/images/105dc822ced1fe750b0b2dce8149cd68/tenor.gif?itemid=7549367)
+![GIF image of President Barack Obama saying Oh yeah with The Roots member Black Thought cheers him on in the background](https://media1.tenor.com/images/105dc822ced1fe750b0b2dce8149cd68/tenor.gif?itemid=7549367)
 
 ---
 
