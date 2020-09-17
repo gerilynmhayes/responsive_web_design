@@ -246,7 +246,7 @@ Today, I'm jumping into animation-iteration and playing with timing. Tomorrow, I
 
 null
 
---
+---
 
 ## Day 15 – Responsive Web Design | Applied Visual Design, Applied Accessibility
 
@@ -263,3 +263,15 @@ Another late start, but that's okay! I'm here and ready to wrap up the Applied V
 [Freeweights - Lightweight](https://youtu.be/s0NbVUJGrbk)
 
 [Neon Rooftops [ A Chillwave - Synthwave - Retrowave Mix ]](https://youtu.be/rDfS8B2-Mt4)
+
+---
+
+## Day 16 – Responsive Web Design | Applied Accessibility, continued
+
+Wow – what a productive day! With so many things to cross off my priority list, I barely had time to get into today's tutorial. And even though I'm about to call it a night in roughly 30 minutes, I'm going get at least one lesson in before the day is through.
+
+Let's jump right into the lesson titled "Use Headings to Show Hierarchical Relationships of Content"
+
+## Soundtrack
+
+[The Office Theme Song - Lo-Fi Hip-Hop Remix](https://youtu.be/RGRLytAkXO4)
