@@ -275,3 +275,13 @@ Let's jump right into the lesson titled "Use Headings to Show Hierarchical Relat
 ## Soundtrack
 
 [The Office Theme Song - Lo-Fi Hip-Hop Remix](https://youtu.be/RGRLytAkXO4)
+
+---
+
+## Day 17 – Responsive Web Design | Applied Accessibility, continued
+
+I. am. spent. And I need to go to bed. While I've been making incredible strides with my client-centered projects, there comes a time when you have to shut down the laptop sooner than planned and just hit the hay. So, that's what I'm going to do. AND from now on, I'm only going to take these coding tutorials in the mornings because these 10-hour workdays are long enough as it is. See you in the morning, coder!
+
+## Soundtrack
+
+[TIAMAT - The Sleeping Beauty (OFFICIAL VIDEO)](https://youtu.be/KPS4HEc8KLQ)
