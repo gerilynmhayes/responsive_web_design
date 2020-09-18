@@ -285,3 +285,15 @@ I. am. spent. And I need to go to bed. While I've been making incredible strides
 ## Soundtrack
 
 [TIAMAT - The Sleeping Beauty (OFFICIAL VIDEO)](https://youtu.be/KPS4HEc8KLQ)
+
+---
+
+## Day 18 – Responsive Web Design | Applied Accessibility, continued
+
+Yesterday/last night, my brain reached its capacity for taking in new information because I was literally exhausted.
+
+After a good night's sleep and a hearty protein-rich breakfast, I happy to get back into accessibility with a clear mind.
+
+## Soundtrack
+
+[Lofi Coding Mix - Part 7 [Stay Home Edition])](https://youtu.be/VIxg4YuguvA)
