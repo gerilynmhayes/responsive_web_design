@@ -297,3 +297,13 @@ After a good night's sleep and a hearty protein-rich breakfast, I happy to get b
 ## Soundtrack
 
 [Lofi Coding Mix - Part 7 [Stay Home Edition])](https://youtu.be/VIxg4YuguvA)
+
+---
+
+## Day 19 – Responsive Web Design | Applied Accessibility, continued
+
+After taking time to relax this weekend, I'm ready to wrap up these accessibility lessons. So far, I've learned that screen readers need clear, concise code that has semantic meaning in order for them to give individuals experiencing disabilities the best web experience. Looking forward to learning more about making the web a more accessible place.
+
+## Soundtrack
+
+[[The Office Theme Song - Lo-Fi Hip-Hop Remix](https://youtu.be/RGRLytAkXO4)
