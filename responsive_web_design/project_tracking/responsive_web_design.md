@@ -307,3 +307,19 @@ After taking time to relax this weekend, I'm ready to wrap up these accessibilit
 ## Soundtrack
 
 [[The Office Theme Song - Lo-Fi Hip-Hop Remix](https://youtu.be/RGRLytAkXO4)
+
+['Back To The 80's' | Best of Synthwave And Retro Electro Music Mix for 2 Hours | Vol. 10](https://youtu.be/s978-pfGNpg)
+
+---
+
+## Day 20  – Responsive Web Design | Introduction to the Responsive Web Design Challenges
+
+YES! The coursework I've been waiting for. Looking forward to diving into media queries, responsive design, and so much more. Even after months of digging into responsive with Skillcrush, I feel like this refresher is really supplemental to my ongoing learning.
+
+Here's to another day of coding!
+
+## Soundtrack
+
+['Back To The 80's' | Best of Synthwave And Retro Electro Music Mix for 2 Hours | Vol. 10](https://youtu.be/s978-pfGNpg)
+
+---
