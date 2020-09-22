@@ -71,7 +71,7 @@ Let's give it a shot with our own image, shall we?
 
 <html>
 <body>
-    <img class="responsive-img" src="https://scontent.faus1-1.fna.fbcdn.net/v/t1.0-0/s600x600/120039815_10218346609396058_1856031383829895473_o.jpg?_nc_cat=1&_nc_sid=825194&_nc_ohc=EcJ5R4isP2kAX-lCj6w&_nc_ht=scontent.faus1-1.fna&tp=7&oh=9e43508db2132d30296c015cdfbc3723&oe=5F912FE9" alt="a very dark meme">
+    <img class="responsive-img" src="https://scontent.faus1-1.fna.fbcdn.net/v/t1.0-9/s720x720/119849438_360094041795539_7852398436142386434_n.jpg?_nc_cat=104&_nc_sid=8bfeb9&_nc_ohc=2N8-0Kd-p10AX8tFH-5&_nc_ht=scontent.faus1-1.fna&tp=7&oh=0909cf6bee45b4991e5d2412538a588e&oe=5F8F7A2B" alt="a very dark meme">
 </body>
 </html>
 
