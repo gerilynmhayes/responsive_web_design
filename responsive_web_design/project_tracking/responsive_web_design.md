@@ -323,3 +323,13 @@ Here's to another day of coding!
 ['Back To The 80's' | Best of Synthwave And Retro Electro Music Mix for 2 Hours | Vol. 10](https://youtu.be/s978-pfGNpg)
 
 ---
+
+## Day 21 and 22 – Responsive Web Design | Responsive Web Design Challenges
+
+Time has a funny way of being simultaneously ample and fleeting. This was never more obvious to me than yesterday when the hours literally rolled away during some of the most challenging coding work I've done in a while. Fortunately, I was able to fix unexpected navigation errors in some existing code on a client's Squarespace site, as well as troubleshoot for another client's WordPress. It was a heavy lift, and somehow I still got in a bit of coding word. Although I missed updating everyone about this, I am happy to report that both Day 21 and Day 22 will be combined since I was otherwise indisposed due to actual real-world coding challenges!
+
+This whole dev thing is nifty!
+
+## Soundtrack
+
+[[The Office Theme Song - Lo-Fi Hip-Hop Remix](https://youtu.be/RGRLytAkXO4)
