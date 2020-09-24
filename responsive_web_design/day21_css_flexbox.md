@@ -116,7 +116,7 @@ I also recommend testing the code on W3Schools.com [here](https://www.w3schools.
 
 I like this property and its value set because if you can wrap items to make them appear organized based on your web page's visual needs.
 
-fCC states that when `flex-wrap1` is used, "extra items move into a new row or column" and that "the break point of where the wrapping happens depends on the size of the items and the size of the container."
+fCC states that when `flex-wrap` is used, "extra items move into a new row or column" and that "the break point of where the wrapping happens depends on the size of the items and the size of the container."
 
 Here's a list of wrap directions (c + p from fCC):
 
