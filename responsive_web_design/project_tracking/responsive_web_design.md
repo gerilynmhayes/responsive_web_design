@@ -332,8 +332,20 @@ This whole dev thing is nifty!
 
 ## Soundtrack
 
-[[The Office Theme Song - Lo-Fi Hip-Hop Remix](https://youtu.be/RGRLytAkXO4)
+[The Office Theme Song - Lo-Fi Hip-Hop Remix](https://youtu.be/RGRLytAkXO4)
 
 [NK Music - Andromeda [Full BeatTape]](https://youtu.be/HMLguRWAMSc)
 
 [Space Highway [ A Chillwave - Synthwave - Retrowave Mix ]](https://www.youtube.com/watch?v=Sk-9vORoAZo)
+
+---
+
+## Day 23 – Responsive Web Design | Introduction to the CSS Grid Challenges
+
+Today was a day of errands so I'm not much for getting a solid tutorial in, BUT there's no way I'm going to fall behind on this commitment. So, I'm jumping in to start learning more about CSS Grid.
+
+While I've seen grid, I don't have a full grasp on it. I think this lesson will be worthwhile. Let's see what the first installation teaches us, shall we?
+
+## Soundtrack
+
+[Hammerheart by Bathory](https://tidal.com/browse/album/2779057)
