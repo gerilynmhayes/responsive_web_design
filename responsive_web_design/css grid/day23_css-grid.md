@@ -30,7 +30,7 @@ From freeCodeCamp:
 
 ## Create Your First CSS Grid
 
-Using CSS, we can transform our HTML elements into grid containers by using the `display` property and setting it's value to `grid`. When we do this, we are setting ourselves up to use other CSS Grid properties.
+Using CSS, we can transform our HTML elements into grid containers by using the `display` property and setting it's value to `grid`. When we do this, we are setting ourselves up to use other CSS Grid properties. 
 
 ---
 
