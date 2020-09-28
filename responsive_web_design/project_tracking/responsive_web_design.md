@@ -349,3 +349,26 @@ While I've seen grid, I don't have a full grasp on it. I think this lesson will 
 ## Soundtrack
 
 [Hammerheart by Bathory](https://tidal.com/browse/album/2779057)
+
+---
+
+## Day 24 – Responsive Web Design | Introduction to the CSS Grid Challenges
+
+No entry recorded.
+
+---
+
+## Day 25 – Responsive Web Design | Introduction to the CSS Grid Challenges
+ 
+ Learned something new and handy today: It's best to use CSS Grid for complex layouts and Flexbox when considering alignment. This is helpful for the upcoming forms page project that I will build * after * redesigning my tribute page featuring one of my all-time favorite actors and humanitarians Mr. Rainn Wilson.
+
+https://codepen.io/gerilynmhayes/pen/KKVMqZe
+
+I'd like to fine-tune the existing code with what I've learned; there are plenty of opportunities for improvement!
+
+What's even more encouraging is that I'm tracking to not just have one project completed by the end of the 100 Days, but FIVE. Can't wait!!
+#100DaysOfProjects #LearningInPublic #freecodecamp
+
+## Soundtrack
+
+[The Office Theme Song - Lo-Fi Hip-Hop Remix](https://youtu.be/RGRLytAkXO4)
