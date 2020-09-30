@@ -372,3 +372,15 @@ What's even more encouraging is that I'm tracking to not just have one project c
 ## Soundtrack
 
 [The Office Theme Song - Lo-Fi Hip-Hop Remix](https://youtu.be/RGRLytAkXO4)
+
+---
+
+## Day 26 – Responsive Web Design | Introduction to the CSS Grid Challenges
+
+Alignment in CSS Grid is a lot to remember. The best way to retain the information is to build web pages that require the use of this type of code. I'm looking forward to using it on the Forms Page project that's coming up.
+
+## Soundtrack
+
+[The Office Theme Song - Lo-Fi Hip-Hop Remix](https://youtu.be/RGRLytAkXO4)
+
+---
