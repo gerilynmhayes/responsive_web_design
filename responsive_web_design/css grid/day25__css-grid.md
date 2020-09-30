@@ -26,18 +26,11 @@ The content inside the grid items is called `cell`. Cells can be aligned horizon
 
 Other values you can use are:
 
-`start`
+`start`: content aligned to the left of the cell.
 
-`center`
+`center`: content aligned to the center of the cell.
 
 `end`: content aligned to the right of the cell.
-
-## Align an Item Vertically using `align-self`
-
-## Align All Items Horizontally using `justify-items`
-
-## Align All Items Vertically using `align-items`
-
 
 ---  
 
@@ -45,4 +38,4 @@ Other values you can use are:
 
 PENDING
 
-👋🏾  PENDING
+Update (Sept 30): Yesterday got away from me very quickly. Moving on to Day 26.
