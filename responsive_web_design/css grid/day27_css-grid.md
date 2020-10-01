@@ -153,15 +153,15 @@ It's meant to explain that the column will repeat three times, and that the colu
 
 ### Overall thoughts:
 
-As I mentioned yesterday, retention is key when taking any coding or programming tutorial. I'm finding that these deep notetaking is helping me understand the "why" behind what I am learning, instead of just following along with the modue and c+p the code snippets provided.
+As I mentioned yesterday, retention is key when taking any coding or programming tutorial. I'm finding that these deep notetaking sessions are helping me understand the "why" behind what I am learning, instead of just following along with the module and c+p the code snippets provided.
 
-I hope that these notes help not only myself to retain the information that I'm gaining, but others who are concerned about not being able to fully understand the lessons they're taking.
+I hope that these notes help not only myself to retain the information that I'm gaining, but others who are concerned that they're gaining limited takeaways from tutorials.
 
-Tomorrow should be the final day of the CSS Grid lesson which is very exciting because that means we're jumping into the **Responsive Web Design Projects** (the whole purpose of my #100DaysOfProjects participation).
+On a different note, tomorrow will be the final day of the CSS Grid lesson which is very exciting because that means I'm jumping head-first into the Responsive Web Design Projects (the whole purpose of my #100DaysOfProjects participation).
 
-The lessons will include creating flexible layouts using both `auto-fill` and `auto-fit`, media queries for responsive layout creation, and creating grids within grids.
+The final lessons will include creating flexible layouts using both `auto-fill` and `auto-fit`, media queries for responsive layout creation, and creating grids within grids.
 
-This is going to be fun!
+This is going to be fun! For now, review my notes in GitHub if you want to learn more about CSS Grid via the freeCodeCamp curriculum.
 
 🥳  Until tomorrow, keep on coding!
 
