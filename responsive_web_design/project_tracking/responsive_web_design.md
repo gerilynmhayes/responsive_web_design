@@ -384,3 +384,13 @@ Alignment in CSS Grid is a lot to remember. The best way to retain the informati
 [The Office Theme Song - Lo-Fi Hip-Hop Remix](https://youtu.be/RGRLytAkXO4)
 
 ---
+
+## Day 27 – Responsive Web Design | Introduction to the CSS Grid Challenges
+
+Today, I am focusing on dividing the grid into an area template, the `grid-area` property, the `repeat` function, and item sizing.
+
+## Soundtrack
+
+[The Office Theme Song - Lo-Fi Hip-Hop Remix](https://youtu.be/RGRLytAkXO4)
+
+---
