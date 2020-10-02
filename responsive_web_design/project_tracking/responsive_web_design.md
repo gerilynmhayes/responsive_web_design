@@ -394,3 +394,14 @@ Today, I am focusing on dividing the grid into an area template, the `grid-area`
 [The Office Theme Song - Lo-Fi Hip-Hop Remix](https://youtu.be/RGRLytAkXO4)
 
 ---
+
+## Day 28 – Responsive Web Design | Introduction to the CSS Grid Challenges
+
+Today, I am focusing on creating flexible layouts using both `auto-fill` and `auto-fit`, media queries for responsive layout creation, and creating grids within grids.
+
+## Soundtrack
+
+[🎧★★★ Synthwave - Retrowave - Retro Electro Livestream ★★★🎧](https://www.youtube.com/watch?v=Vn6-ahNnSuM)
+
+---
+
