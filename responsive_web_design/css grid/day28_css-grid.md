@@ -1,6 +1,6 @@
 # 100 Days of Projects
 
-## Day 28 – Responsive Web Design | CSS Grid
+## Day 28 & 29 – Responsive Web Design | CSS Grid
 
 Today, I am focusing on creating flexible layouts using both `auto-fill` and `auto-fit`, media queries for responsive layout creation, and creating grids within grids.
 
@@ -51,10 +51,31 @@ From today's challenge, you'll see how this code styles to layout:
 grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
 ```
 
+## Use Media Queries to Create Responsive Layouts
+
+To make websites more responsive, we want to use media queries when using CSS Grid. We can use "media queries to rearrange the grid areas, change dimensions of a grid, and rearrange the placement of items."
+
+## Use Media Queries to Create Responsive Layouts
+
+fCC states:
+
+> CSS Grid can be an easy way to make your site more responsive by using media queries to rearrange grid areas, change dimensions of a grid, and rearrange the placement of items.
+
+## Create Grids within Grids
+
+fCC states:
+
+> Turning an element into a grid only affects the behavior of its direct descendants. So by turning a direct descendant into a grid, you have a grid within a grid.
+
 ---
 
 ### Overall thoughts:
 
 🥳  Pending [out of town: Pflugerville, Texas]
 
-![GIF of Ron Swanson squeeling with glee](https://media1.tenor.com/images/3781fb49f9f50c4b7d5c9590dcf9e710/tenor.gif?itemid=14647008)
+[continued on Monday, October 5th]
+
+I'm glad that I finished this coursework. Now, I'm able to start **[Introduction to the Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects)** and I'm super pumped about it!
+
+
+![GIF of Jonah Hill squeeling with joy](https://media1.tenor.com/images/f485162270cea2d14d09b330433945d7/tenor.gif?itemid=11193901)

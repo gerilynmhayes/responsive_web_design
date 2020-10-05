@@ -405,3 +405,11 @@ Today, I am focusing on creating flexible layouts using both `auto-fill` and `au
 
 ---
 
+## Day 29 – Responsive Web Design | Introduction to the CSS Grid Challenges
+
+🥳  Pending [out of town: Pflugerville, Texas]
+
+[continued on Monday, October 5th]
+
+I'm glad that I finished this coursework. Now, I'm able to start **[Introduction to the Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects)** and I'm super pumped about it!
+
