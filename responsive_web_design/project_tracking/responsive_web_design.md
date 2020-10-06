@@ -413,3 +413,18 @@ Today, I am focusing on creating flexible layouts using both `auto-fill` and `au
 
 I'm glad that I finished this coursework. Now, I'm able to start **[Introduction to the Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects)** and I'm super pumped about it!
 
+---
+
+## Day 30 – Responsive Web Design | Introduction to the Responsive Web Design Projects
+
+Today's the day!! I'm going to start my very first project challenge: Build a Tribute Page.
+
+Although I've already built one for Rainn Wilson, I'm going to create another one for Neil DeGrasse Tyson. I think he's super cool! So, that's what I'll be working on for the next few days or so. And I'm going to post my code, my notes, and the end result on GitHub and Twitter.
+
+Hooray!!
+
+## Soundtrack
+
+[Van Halen - Runnin' With The Devil (REACTION!) (Rest In Peace)](https://youtu.be/6uxtd5QomA8)
+
+[THE BUTTS Live from Studio 84](https://youtu.be/bz-gaXKigk0)
