@@ -419,7 +419,7 @@ I'm glad that I finished this coursework. Now, I'm able to start **[Introduction
 
 Today's the day!! I'm going to start my very first project challenge: Build a Tribute Page.
 
-Although I've already built one for Rainn Wilson, I'm going to create another one for Neil DeGrasse Tyson. I think he's super cool! So, that's what I'll be working on for the next few days or so. And I'm going to post my code, my notes, and the end result on GitHub and Twitter.
+Although I've already built one for Rainn Wilson, I'm going to create another one for Neil deGrasse Tyson. I think he's super cool! So, that's what I'll be working on for the next few days or so. And I'm going to post my code, my notes, and the end result on GitHub and Twitter.
 
 Hooray!!
 
@@ -428,3 +428,15 @@ Hooray!!
 [Van Halen - Runnin' With The Devil (REACTION!) (Rest In Peace)](https://youtu.be/6uxtd5QomA8)
 
 [THE BUTTS Live from Studio 84](https://youtu.be/bz-gaXKigk0)
+
+---
+
+## Day 30 + 31 (combo) – Responsive Web Design | Introduction to the Responsive Web Design Projects: Build a Tribute Page
+
+So, yesterday got away from me and I only did a minimal amount of coding. That's not going to stop me from hopping right back into this project!
+
+I'm going to start off by reviewing the instructions and then make a design plan. I didn't do that last time and ended up feeling extremely overwhelmed. Maybe I'll use Asana to build tasks for this process? Not sure yet. But let's start small and tackle the instructions.
+
+## Soundtrack
+
+[~ N I G H T D R I V E - 2 ~ A Synthwave Mix [Chillwave - Retrowave]](https://youtu.be/v_F1rQ__RM8)
