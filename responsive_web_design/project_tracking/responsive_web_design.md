@@ -440,3 +440,19 @@ I'm going to start off by reviewing the instructions and then make a design plan
 ## Soundtrack
 
 [~ N I G H T D R I V E - 2 ~ A Synthwave Mix [Chillwave - Retrowave]](https://youtu.be/v_F1rQ__RM8)
+
+---
+
+## Day 32-34 (combo) – Responsive Web Design | Introduction to the Responsive Web Design Projects: Build a Tribute Page
+
+Reporting today (Friday) and my oh my did this week get away from me or what?! Although I've coded every day, it's been tough to keep a public tally.
+
+Even still, I haven't touched my project today due to a brand new contract gig I earned with a major tech company. And while I'm not ready to say publicly which company it is, I really excited to be able to jump right into the tech and build things. I'm super excited right now!
+
+Anyway, I'm going to continue migrating my local WP site to its host and listening to Japanese rappers rhyme to the beat!
+
+Happy Friday, coder! Until next week, keep on codin'!
+
+## Soundtrack
+
+[japanese rap when slaying enemies with your katana](https://youtu.be/Ii-_EtWBVSM)
