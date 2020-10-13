@@ -456,3 +456,15 @@ Happy Friday, coder! Until next week, keep on codin'!
 ## Soundtrack
 
 [japanese rap when slaying enemies with your katana](https://youtu.be/Ii-_EtWBVSM)
+
+--- 
+
+## Day 35 – Responsive Web Design | Introduction to the Responsive Web Design Projects: Build a Tribute Page
+
+Today was a long, but productive day. After incorporating a new morning routine, I found that getting my usual 1-2 hours of coding in will be next to impossible in the coming weeks. Like that's going to stop! LOL!
+
+Tonight, I'm giving myself about 40 mins to write a few lines of code by hand. I need to incorporate CSS into my Tribute Page so I'm going to start off by styling one element per session. I'll take a gander at the body.
+
+## Soundtrack
+
+[3 A.M Study Session 📚 - [lofi hip hop/chill beats]](https://www.youtube.com/watch?v=BTYAsjAVa3I)
