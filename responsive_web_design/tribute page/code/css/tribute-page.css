@@ -1,13 +1,31 @@
+/* global styles added here */
+
+html {
+	font-size: 12px;
+}
+
 /*	The background image used on this page is credited to Andy Holmes, https://bit.ly/34PGMod | Sourced via Unsplash.com */
+
+/* nixed flex display and moved font-family and color attributes to the body element instead of the main element;
+I want the entire page to have the same font face and color (unless otherwise specified)*/
 
 body {
 	background-image: url(https://images.unsplash.com/photo-1528722828814-77b9b83aafb2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
-	display: flex;
+	font-family: 'Commissioner', sans-serif;
+	font-size: 1rem;
+	line-height: 1.5;
+	text-align: center;
+	color: #fff;
+	margin: 0;
 }
 
+/* since I want the main portion of the website to be positioned correctly, I will start building this structure with that in mind */
+
 #main {
-	color: #fff;
-	font-family: 'Commissioner', sans-serif;
+	margin: 30px 8px;
+	padding: 15px;
+	border-radius: 5px;
+	background: #80b5c2b7;
 }
 
 #header h1 {
@@ -20,17 +38,21 @@ body {
 }
 
 /* Image of scientist*/
+img {
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+  }
 
 #img-div {
-	max-width: 30%;
-	height: auto;
-	position: relative;
-	top: 10px;
-	left: 500px;
+	background: #45364b;
 	border-color: gold;
 	border-width: 3px;
 	border-style: dotted;
 	border-radius: 50%;
+	padding: 5px;
+	margin: 0;
 }
 
 /* image caption */

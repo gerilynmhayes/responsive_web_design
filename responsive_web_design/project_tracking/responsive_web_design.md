@@ -468,3 +468,13 @@ Tonight, I'm giving myself about 40 mins to write a few lines of code by hand. I
 ## Soundtrack
 
 [3 A.M Study Session 📚 - [lofi hip hop/chill beats]](https://www.youtube.com/watch?v=BTYAsjAVa3I)
+
+--- 
+
+## Day 36 – Responsive Web Design | Introduction to the Responsive Web Design Projects: Build a Tribute Page
+
+Fortunately I made a bit of progress with my Tribute Page. Not exactly where I want it, but I'm going to work on positioning today. We'll see how it turns out.
+
+## Soundtrack
+
+[Coffee shop vibes... 😴](https://www.youtube.com/watch?v=kyvnngAEIpY)
